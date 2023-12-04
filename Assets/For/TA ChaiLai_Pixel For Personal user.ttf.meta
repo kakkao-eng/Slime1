@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7682f2fa6de679348a29ccee0c3ee694
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TA Chai Lai_Pixel for personal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d4494f1eee2dd2d47a6d5d2cabe14fca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
